@@ -19,6 +19,5 @@ The objective of this project was to create a clear and organized roadmap for th
 
 - Project Planning  
 - Scheduling & Timeline Development  
-- Stakeholder Communication  
 - Risk Identification  
 - Work Breakdown Structure (WBS) Development  
