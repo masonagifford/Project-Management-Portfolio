@@ -47,7 +47,7 @@ I am currently expanding my project management expertise through continued profe
 ## Portfolio Projects
 
 ### 1. Project Office Green
-Developed a comprehensive project plan for launching Plant Pals, an office plant delivery service designed for high-value clients. The project included key project management deliverables such as a project charter, work breakdown structure (WBS), Gantt chart, and task and milestone network diagram to support structured planning and execution.
+Developed a comprehensive project plan for launching Plant Pals, an office plant delivery service designed for high-volume clients. The project included key project management deliverables such as a project charter, work breakdown structure (WBS), Gantt chart, and task and milestone network diagram to support structured planning and execution.
 
 **Key Skills:** 
 - Planning
