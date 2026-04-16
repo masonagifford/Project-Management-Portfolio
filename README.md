@@ -36,7 +36,8 @@ I am currently expanding my project management expertise through continued profe
 - Microsoft PowerPoint  
 - Google Docs  
 - Trello  
-- Asana  
+- Asana
+- Basecamp
 - Jira (Foundational Knowledge)  
 - Smartsheet  
 - GitHub  
@@ -91,5 +92,5 @@ This portfolio was created to showcase project management skills developed throu
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/mason-gifford-796071366  
-- GitHub: https://github.com/yourusername  
-- Email: yourname@email.com
+- GitHub: https://github.com/masonagifford  
+- Email: mason.a.gifford@gmail.com
